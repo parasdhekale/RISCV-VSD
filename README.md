@@ -1,2 +1,2 @@
 # RISCV-VSD
-Documentation for RISC V VSD internship 
+Documentation for RISCV-VSD internship 
