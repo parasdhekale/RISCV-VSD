@@ -8,3 +8,4 @@ System Specification :-
 
 
 First task is to install RISC V GNU toolchain, Yosys, iVerilog and GTKWave.
+Task status - Completed
