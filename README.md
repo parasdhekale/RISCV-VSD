@@ -20,7 +20,7 @@ Type:
 Syntax:     
 32 bit code :   
 
-Instruction 3: and r8, r1, r3
+Instruction 3: and r8, r1, r3  
 Type:   
 Syntax:     
 32 bit code :   
