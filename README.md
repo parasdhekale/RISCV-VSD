@@ -1,12 +1,12 @@
 # Week 1
-Documentation for RISCV-VSD internship
-System Specification :- 
-    1. OS - Ubuntu 20.04 
-    2. RAM - 8 GB
-    3. Size - 100 GB HDD
+Documentation for RISCV-VSD internship  
+System Specification :-   
+    1. OS - Ubuntu 20.04  
+    2. RAM - 8 GB  
+    3. Size - 100 GB HDD  
 
-First task is to install RISC V GNU toolchain, Yosys, iVerilog and GTKWave.
-Task status - Completed.
+First task is to install RISC V GNU toolchain, Yosys, iVerilog and GTKWave.  
+Task status - Completed.  
 
 # Week 2
 Identify Instruction type & 32 bit code for following instructions:-  
