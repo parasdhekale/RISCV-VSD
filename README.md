@@ -27,50 +27,50 @@ Syntax: and rd,rs1,rs2
 
 Instruction 4: or r9, r2, r5  
 Type:   
-Syntax:     
+Syntax: or rd,rs1,rs2        
 32 bit code :   
 
 Instruction 5: xor r10, r1, r4  
 Type:   
-Syntax:     
+Syntax: xor rd,rs1,rs2     
 32 bit code :   
 
 Instruction 6: slt r11, r2, r4  
 Type:   
-Syntax:     
+Syntax: slt rd,rs1,rs2      
 32 bit code :   
 
 Instruction 7: addi r12, r4, 5  
 Type:   
-Syntax:     
+Syntax: addi rd,rs1,imm       
 32 bit code :   
 
 Instruction 8: sw r3, r1, 2  
 Type:   
-Syntax:     
+Syntax: sw rs1,rs2,imm       
 32 bit code :   
 
 Instruction 9: lw r13, r1, 2  
 Type:   
-Syntax:     
+Syntax: lw rd,rs1,imm      
 32 bit code :   
 
 Instruction 10: beq r0, r0, 15  
 Type:   
-Syntax:     
+Syntax: beq rs1,rs2,imm      
 32 bit code :   
 
 Instruction 12: bne r0, r1, 20  
 Type:   
-Syntax:     
+Syntax: bne rs1,rs2,imm      
 32 bit code :   
 
 Instruction 14: sll r15, r1, r2(2)  
 Type:   
-Syntax:     
+Syntax: sll rd,rs1,rs2     
 32 bit code :   
 
 Instruction 15: srl r16, r14, r2(2)  
 Type:   
-Syntax:     
+Syntax: sr1 rd,rs1,rs2     
 32 bit code :   
