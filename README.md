@@ -5,8 +5,8 @@ System Specification :-
     2. RAM - 8 GB  
     3. Size - 100 GB HDD  
 
-First task is to install RISC V GNU toolchain, Yosys, iVerilog and GTKWave.  
-Task status - Completed.  
+Install RISC V GNU toolchain, Yosys, iVerilog and GTKWave.  
+Status - Completed.  
 
 # Week 2
 ## Identify Instruction type & 32 bit code 
