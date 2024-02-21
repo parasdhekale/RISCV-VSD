@@ -1,5 +1,5 @@
 # Week 1
-## Documentation for RISCV-VSD internship  
+## Tools installation for RISCV-VSD internship  
 System Specification :-   
     1. OS - Ubuntu 20.04  
     2. RAM - 8 GB  
