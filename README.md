@@ -14,7 +14,7 @@ Instruction 1: add r6, r2, r1
 Type: R-type  
 Syntax: add rd,rs1,rs2  
 32 bit code : 0000000 rs2 rs1 000 rd 0110011  
-                0000000 r1 r2 000 r6 0110011  
+~~~~~0000000 r1 r2 000 r6 0110011  
 
 Instruction 2: sub r7, r1, r2  
 Type:   
