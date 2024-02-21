@@ -13,16 +13,17 @@ Status - Completed.
 Instruction 1: add r6, r2, r1  
 Type: R-type  
 Syntax: add rd,rs1,rs2  
-32 bit code : 0000000 r1 r2 000 r6 0110011  
+32 bit code : 0000000 rs2 rs1 000 rd 0110011  
+              0000000 r1 r2 000 r6 0110011  
 
 Instruction 2: sub r7, r1, r2  
 Type:   
-Syntax:     
+Syntax: sub rd,rs1,rs2      
 32 bit code :   
 
 Instruction 3: and r8, r1, r3  
 Type:   
-Syntax:     
+Syntax: and rd,rs1,rs2       
 32 bit code :   
 
 Instruction 4: or r9, r2, r5  
