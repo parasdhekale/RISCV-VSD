@@ -80,9 +80,9 @@ Write a sample C code and compile it using gcc.
 ![c code](https://github.com/parasdhekale/RISCV-VSD/assets/71093755/492b3881-a40f-4161-a37b-e43f583f2fb2)
 
 Now compile same using riscv gnu toolchain.  
-riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64imac -o sum1ton.o sum1ton.c  
+**riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64imac -o sum1ton.o sum1ton.c**   
 
-View the obj file using riscv64-unknown-elf-objdump -d sum1ton.o | less  
+View the obj file using **riscv64-unknown-elf-objdump -d sum1ton.o | less**    
 ![obj file](https://github.com/parasdhekale/RISCV-VSD/assets/71093755/93c2de46-02d5-4db9-a72e-be607f89d59a)
 
 
