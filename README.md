@@ -73,4 +73,8 @@ Syntax: sll rd,rs1,rs2
 Instruction 15: srl r16, r14, r2(2)  
 Type: R-type    
 Syntax: sr1 rd,rs1,rs2     
-32 bit code : 0000000 r2 r14 101 r16 0110011     
+32 bit code : 0000000 r2 r14 101 r16 0110011  
+
+##Compile a C code using RISCV GNU Toolchain
+![c code](https://github.com/parasdhekale/RISCV-VSD/assets/71093755/492b3881-a40f-4161-a37b-e43f583f2fb2)
+
