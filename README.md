@@ -105,7 +105,7 @@ Syntax: sr1 rd,rs1,rs2
 
 
 
-**<details><summary> Compile a C code using -O1 coomand</summary>**  
+**<details><summary> Compile a C code using -O1 command</summary>**  
 Write a sample C code and compile it using gcc.  
 ![c code](https://github.com/parasdhekale/RISCV-VSD/assets/71093755/492b3881-a40f-4161-a37b-e43f583f2fb2)
 
@@ -126,4 +126,14 @@ View the obj file using `riscv64-unknown-elf-objdump -d sum1ton.o | less`
 
 
 </details>
+
+# Week 3
+**<details><summary> Functional Simulation of RISC V core</summary>** 
+Source repository - https://github.com/vinayrayapati/rv32i
+
+![gtkwave-simulation](https://github.com/parasdhekale/RISCV-VSD/assets/71093755/9bb28779-797d-4cdd-a49e-d8bb9c020b0f)
+
+
+</details>
+
 
